@@ -1,0 +1,22 @@
+.container {
+    margin-top: 50px;
+    max-width: 400px;
+    background-color: beige;
+    color: #000;
+    text-decoration: solid;
+    border-radius: 20px;
+    border: #000 solid;
+    box-shadow: 5px 4px 5px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .text-center {
+    text-align: center;
+    margin-top: 20px;
+  }
+  span{
+    color:#94004d;
+  }
